@@ -1,0 +1,19 @@
+{
+  "name": "timestamp-rx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "timestamp-rx.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/royalxavier/timestamp-rx.git"
+  },
+  "author": "RoyalXavier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/royalxavier/timestamp-rx/issues"
+  },
+  "homepage": "https://github.com/royalxavier/timestamp-rx#readme"
+}
