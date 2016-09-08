@@ -100,9 +100,7 @@ http.createServer(function(req,res){
 	var time=timeJSON(decodeURI(req.url).slice(1));
 	res.end(time);
 	
-	
 }).listen(process.env.PORT || 5000); 
-
 
 
 
