@@ -101,7 +101,9 @@ http.createServer(function(req,res){
 	res.end(time);
 	
 	
-}).listen(8080); 
+}).listen(process.env.PORT || 5000); 
+
+
 
 
 
